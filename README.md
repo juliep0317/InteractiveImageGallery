@@ -13,3 +13,5 @@ Copy the website link and paste into your browser.
 Copy the desired image url and paste it into the input field box and click the add image button, repeat this step to add multiple images.
 
 To remove the images, hover over the image and click the remove button.
+
+Click the refresh button on the browser to clear it. 
